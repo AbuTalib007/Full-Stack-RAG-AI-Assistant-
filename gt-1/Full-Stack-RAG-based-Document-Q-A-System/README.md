@@ -155,11 +155,7 @@ Here’s an example when asking:
 Sesuai dengan ketentuan dalam Perjanjian Pinjaman Sindikasi, 31 Maret 2025, LSA dan SCM melakukan penarikan masing-masing sebesar AS$27.000 dan AS$13.000 dan melakukan pembayaran masing-masing sebesar AS$27.000 dan AS$13.000 atas fasilitas pinjaman ini (untuk periode tiga bulan yang berakhir pada tanggal 31 Maret 2024: AS$nihil). Pada tanggal 31 Maret 2025 dan 31 Desember 2024, saldo pinjaman yang terutang dari fasilitas pinjaman ini adalah sebesar AS$nihil.
 ```
 
-**Sources:**
-- data\856384710-FinancialStatement-2025-I-AADI.pdf
 
-
-Below is a visual example of the PDF Q&A result in the browser:
 
 ![Chat Result Example](result.png)
 
